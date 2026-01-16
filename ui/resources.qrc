@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Arduino.png</file>
+        <file>AWLogo.png</file>
+        <file>BinnenVerlichting.png</file>
+        <file>Connect.png</file>
+        <file>Geluid.png</file>
+        <file>Home.png</file>
+        <file>Locomotief.png</file>
+        <file>Router.png</file>
+        <file>Sein.png</file>
+        <file>Straatverlichting.png</file>
+        <file>TrainLayout.png</file>
+        <file>Uit.png</file>
+        <file>Wissel.png</file>
+        <file>z21.png</file>
+    </qresource>
+</RCC>
